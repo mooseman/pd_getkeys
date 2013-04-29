@@ -1,0 +1,14 @@
+
+   ***  README -  pd_getkeys *** 
+
+Just some code to read keys from the keyboard (especially those 
+with multiple keys like arrow keys, function keys).
+
+I plan to use this code in pd_readline to allow easy reading of the 
+arrow keys for command-history recall and line-editing.    
+
+As usual, all code in this repo is released to the public domain. 
+"Share and enjoy......."  :)  
+
+ - mooseman 
+  
